@@ -35,7 +35,7 @@
             // 
             // txtKullaniciAdi
             // 
-            this.txtKullaniciAdi.Location = new System.Drawing.Point(71, 34);
+            this.txtKullaniciAdi.Location = new System.Drawing.Point(54, 117);
             this.txtKullaniciAdi.Name = "txtKullaniciAdi";
             this.txtKullaniciAdi.PromptText = "\"Kullanıcı Adı\"";
             this.txtKullaniciAdi.Size = new System.Drawing.Size(123, 23);
@@ -43,7 +43,7 @@
             // 
             // txtSifre
             // 
-            this.txtSifre.Location = new System.Drawing.Point(295, 34);
+            this.txtSifre.Location = new System.Drawing.Point(372, 117);
             this.txtSifre.Name = "txtSifre";
             this.txtSifre.PasswordChar = '●';
             this.txtSifre.PromptText = "\"Şifre\"";
@@ -54,7 +54,7 @@
             // 
             // btnGiris
             // 
-            this.btnGiris.Location = new System.Drawing.Point(181, 120);
+            this.btnGiris.Location = new System.Drawing.Point(225, 234);
             this.btnGiris.Name = "btnGiris";
             this.btnGiris.Size = new System.Drawing.Size(75, 23);
             this.btnGiris.TabIndex = 2;
