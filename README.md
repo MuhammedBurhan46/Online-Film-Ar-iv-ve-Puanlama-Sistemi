@@ -1,8 +1,17 @@
-Projeyi başlattığımızda ilk olarak Login ekranı geliyor.
-2 kullanıcı kayıtlı. Birincisi admin şifresi 1234 , ikincisi uye1 şifresi 1234. 
-admin film ekleme yorum ve puan ekleme özelliklerini yapabiliyor. uye ise puan ve yorum ekleme özelliklerini yapabiliyor.
-Girilen filmler verilen puanların ortalamasına göre en yüksekten düşüğe doğru sıralanıyor.
+# Film Arşiv Puanlama Sistemi
 
-projenin nasıl çalıştığını gösteren gif:
+Projeyi başlattığımızda ilk olarak Login ekranı geliyor.  
+2 kullanıcı kayıtlı. Birincisi **admin** şifresi: `1234`, ikincisi **uye1** şifresi: `1234`.  
 
-![Demo GIF](demo.gif)
+- **Admin** film ekleme, yorum ve puan ekleme özelliklerini yapabiliyor.  
+- **Uye** ise sadece puan ve yorum ekleyebiliyor.  
+
+Girilen filmler, verilen puanların ortalamasına göre en yüksekten düşüğe doğru sıralanıyor.
+
+---
+
+## Projenin Çalışma Mantığı
+
+Aşağıdaki GIF, projenin genel işleyişini gösteriyor:
+
+![Demo GIF](Demo.gif)
